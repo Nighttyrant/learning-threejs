@@ -1,13 +1,4 @@
 learning-threejs
 ================
-
-## Second edition learning Three.js
-
-The examples in this branch are based on r63 and correspond to the second edition of "Learning Three.js"
-
-## Third edition Learning Three.js
-
-The examples for the third edition of this book can be found in the following repo
-
-https://github.com/josdirksen/learning-threejs-third
+买了这本书，准备慢慢研究，克隆下来准备进行代码注释和修改
 
